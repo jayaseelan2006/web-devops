@@ -12,7 +12,7 @@ def home():
         <body>
             <h1>Hello! 👋</h1>
             <h1>Jayaseelan U</h1>
-            <h2>Welcome to My DevOps Project</h2>
+            <h2>Welcome to My DevOps Project</2>
             <p>This website is built with Python Flask.</p>
             <p>Next: Docker → GitHub → CI/CD → AI</p>
         </body>
